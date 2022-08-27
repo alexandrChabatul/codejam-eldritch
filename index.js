@@ -312,3 +312,5 @@ function showCard(deck) {
         deckBlock.innerHTML = '';
     }
 }
+
+console.log('git-hub - https://github.com/sashkill94/codejam-eldritch');
